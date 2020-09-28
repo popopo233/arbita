@@ -1,4 +1,4 @@
-# arbitahttps://guides.github.com/activities/hello-world/
+# arbita
 link to site: https://popopo233.github.io/arbita/
 
 Ленд на полироль
